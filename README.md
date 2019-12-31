@@ -3,7 +3,7 @@
 ##### API created with Node JS.
 #### -->Required Node Modules are
 ##### ---->AWS-SDK for NodeJS, 
-       npm install aws-sdk (or) AWS-SDK https://aws.amazon.com/sdk-for-node-js
+       npm install aws-sdk (or) [AWS SDK] https://aws.amazon.com/sdk-for-node-js
 ##### ---->Node Serverless,
        npm install -g serverless (or) https://serverless.com/framework/docs/getting-started/
 ##### ---->Node UUID Generator,
@@ -18,3 +18,5 @@
 ##### Then deploy our Project to Aws by the command,
           sls deploy
           
+Make a Star to my Repo.
+THANK YOU
