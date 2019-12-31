@@ -1,12 +1,12 @@
 ### CURD operations API using AWS(Amazon Web Services).
 #### The API uses the AWS CloudFormation,DynamoDB and Amazon S3.
 ##### API created with Node JS.
-##### -->Required Node Modules are
-###### ---->AWS-SDK for NodeJS, 
+#### -->Required Node Modules are
+##### ---->AWS-SDK for NodeJS, 
        npm install aws-sdk (or) AWS-SDK https://aws.amazon.com/sdk-for-node-js
-###### ---->Node Serverless,
+##### ---->Node Serverless,
        npm install -g serverless (or) https://serverless.com/framework/docs/getting-started/
-###### ---->Node UUID Generator,
+##### ---->Node UUID Generator,
        npm install uuid (or) https://www.npmjs.com/package/uuid
 ##### Just need to create an AWS Account. 
 ##### Login to your Account,Click on Username move to My Security Credentials->Access Keys->Create access keys.
