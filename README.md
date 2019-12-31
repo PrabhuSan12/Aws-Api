@@ -18,5 +18,5 @@
 ##### Then deploy our Project to Aws by the command,
           sls deploy
           
-Make a Star to my Repo.
-THANK YOU
+##### Make a Star to my Repo.
+##### THANK YOU ⭐⭐
