@@ -1,0 +1,53 @@
+vs code powershell
+
+Remove-Item alias:sls
+
+
+Prabhu:
+acess id
+AKIAJAGNBZVHXWQGPAXQ
+
+secret key
+
+oznJPmmoNyYvABX/mK2rXtDRwFNx1zf2Ww2N7ebe
+
+
+acess key change in aws sdk terminal
+
+serverless config credentials --provider aws --key AKIAJAGNBZVHXWQGPAXQ --secret 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 -o
+
+
+sls deploy
+
+
+Mohan:
+
+access:
+AKIAIGDLBUT7S7IGALGA
+
+
+Secret:
+YDcb7QLGSNJ7nzimaN2j2Fx1i2E9Tn5iYR4PLkG7
+
+post:
+{
+    "title": "post one",
+    "body": "this is post one"
+}
+
+Put user data:
+{
+"paramName": "title",
+"paramValue": "post name"
+}
+
+
+Url Links:
+https://throwbin.io/dw2qb5T
+
+POST - https://89tskgtule.execute-api.ap-southeast-1.amazonaws.com/dev/post
+GET - https://89tskgtule.execute-api.ap-southeast-1.amazonaws.com/dev/posts
+GET(particular value) - https://89tskgtule.execute-api.ap-southeast-1.amazonaws.com/dev/posts/{number}
+GET - https://89tskgtule.execute-api.ap-southeast-1.amazonaws.com/dev/post/{id}
+PUT - https://89tskgtule.execute-api.ap-southeast-1.amazonaws.com/dev/post/{id}
+DELETE - https://89tskgtule.execute-api.ap-southeast-1.amazonaws.com/dev/post/{id}
